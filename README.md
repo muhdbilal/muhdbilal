@@ -12,6 +12,7 @@ I am a data scientist and machine learning researcher. I am all about harnessing
 ### 📃Read my journal paper:
 [![Journal Paper](https://img.shields.io/badge/Link_to_paper-MDPI-Green)](https://www.mdpi.com/1996-1073/16/4/1636)
 
+<img align="left" src = "https://github-readme-stats.vercel.app/api?username=muhdbilal&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=blueberry"> 
 
 
 <!--
