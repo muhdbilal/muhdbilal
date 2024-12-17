@@ -7,7 +7,7 @@ I am a data scientist and machine learning researcher. I am all about harnessing
 - Tools: Git, Docker, VS Code
 
 ## 📫 Visit my socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/muhdbilal) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/mhdbilal) 
 
 ## 📃Read my journal paper:
 [![Journal Paper](https://img.shields.io/badge/Link_to_paper-MDPI-Green)](https://www.mdpi.com/1996-1073/16/4/1636)
