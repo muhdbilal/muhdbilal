@@ -10,7 +10,7 @@ I am a data scientist and machine learning researcher. I am all about harnessing
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/muhdbilal) 
 
 ## 📃Read my journal paper:
-[![Journal Paper](https://img.shields.io/badge/Link-MDPI-Green)]([<URL>](https://www.mdpi.com/1996-1073/16/4/1636))
+[![Journal Paper](https://img.shields.io/badge/Link-MDPI-Green)](https://www.mdpi.com/1996-1073/16/4/1636)
 
 
 
