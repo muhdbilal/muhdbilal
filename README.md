@@ -2,14 +2,14 @@
 
 I am a data scientist and machine learning researcher. I am all about harnessing the power of data and machine learning methods to solve real world problems.
 
-## 🔧 Technologies & Tools
+### 🔧 Technologies & Tools
 - Programming Languages: Python, R, SQL
 - Tools: Git, Docker, VS Code
 
-## 📫 Visit my socials:
+### 📫 Visit my socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/mhdbilal) 
 
-## 📃Read my journal paper:
+### 📃Read my journal paper:
 [![Journal Paper](https://img.shields.io/badge/Link_to_paper-MDPI-Green)](https://www.mdpi.com/1996-1073/16/4/1636)
 
 
