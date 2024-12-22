@@ -14,7 +14,7 @@ I am a data scientist and machine learning researcher. I am all about harnessing
 
 
 <a href="https://github.com/muhdbilal" style="text-decoration: none;">
-    <picture>
+<!--     <picture>
         <source
             srcset="https://github-readme-stats-jd-blush.vercel.app/api?username=muhdbilal&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&count_private=true&card_width=250"
             media="(prefers-color-scheme: dark)"
@@ -24,7 +24,7 @@ I am a data scientist and machine learning researcher. I am all about harnessing
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
         <img height=180 align="center" src="https://github-readme-stats-jd-blush.vercel.app/api?username=muhdbilal&show_icons=true&title_color=000&hide_border=true&count_private=true&card_width=250" />
-    </picture>
+    </picture> -->
     <picture>
         <source
             srcset="https://github-readme-stats.vercel.app/api/top-langs?username=muhdbilal&hide=jupyter%20notebook&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&langs_count=8&card_width=250"
