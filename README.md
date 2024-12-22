@@ -12,7 +12,35 @@ I am a data scientist and machine learning researcher. I am all about harnessing
 ### 📃Read my journal paper:
 [![Journal Paper](https://img.shields.io/badge/Link_to_paper-MDPI-Green)](https://www.mdpi.com/1996-1073/16/4/1636)
 
+
+<a href="https://github.com/muhdbilal" style="text-decoration: none;">
+    <picture>
+        <source
+            srcset="https://github-readme-stats-jd-blush.vercel.app/api?username=muhdbilal&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&count_private=true&card_width=250"
+            media="(prefers-color-scheme: dark)"
+        />
+        <source
+            srcset="https://github-readme-stats-jd-blush.vercel.app/api?username=muhdbilal&show_icons=true&title_color=000&hide_border=true&count_private=true&card_width=250"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img height=180 align="center" src="https://github-readme-stats-jd-blush.vercel.app/api?username=muhdbilal&show_icons=true&title_color=000&hide_border=true&count_private=true&card_width=250" />
+    </picture>
+    <picture>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=muhdbilal&hide=jupyter%20notebook&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&langs_count=8&card_width=250"
+            media="(prefers-color-scheme: dark)"
+        />
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=muhdbilal&layout=compact&title_color=000&hide_border=true&langs_count=8&card_width=250&hide=jupyter%20notebook"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img height=180 align="center" src="https://github-readme-stats.app/api/top-langs?username=muhdbilal&hide=jupyter%20notebook&layout=compact&title_color=000&hide_border=true&langs_count=8&card_width=250" />
+    </picture>
+</a>
+
+<!--
 <img align="left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=muhdbilal&hide_border=true&layout=compact&theme=blueberry">
+-->
 
 <!--
 <img align="left" src = "https://github-readme-stats.vercel.app/api?username=muhdbilal&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=blueberry"> 
