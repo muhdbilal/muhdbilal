@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I+am+Bilal%F0%9F%91%8B)](https://git.io/typing-svg)
+
 I am a data scientist and machine learning researcher. I am all about harnessing the power of data and machine learning methods to solve real world problems.
 
 ### 🔧 Technologies & Tools
