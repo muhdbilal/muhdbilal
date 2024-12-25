@@ -8,11 +8,11 @@ I am a data scientist and machine learning researcher. I am all about harnessing
 
 I have been experiemnting with Large Language Models (LLMs) recently. Some of the projects I made are:
 
- - ### 🗺️ [Location Finder](https://github.com/muhdbilal/location_finder)
-&emsp;Use LLMs to pinpoint any geographical query on a map.
+### 🗺️ [Location Finder](https://github.com/muhdbilal/location_finder)
+Use LLMs to pinpoint any geographical query on a map.
 
-- #### 🗨️ [RAG Chatbot](https://github.com/muhdbilal/llm-chatbot)
-&emsp;A chatbot with Retrieval Augmented Generation (RAG) to answer questions related to the provided pdf files.
+#### 🗨️ [RAG Chatbot](https://github.com/muhdbilal/llm-chatbot)
+A chatbot with Retrieval Augmented Generation (RAG) to answer questions related to the provided pdf files.
 
 ### 📫 Visit my socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/mhdbilal) 
