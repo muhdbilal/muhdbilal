@@ -21,7 +21,7 @@ A chatbot with Retrieval Augmented Generation (RAG) to answer questions related 
 [![Journal Paper](https://img.shields.io/badge/Link_to_paper-MDPI-Green)](https://www.mdpi.com/1996-1073/16/4/1636)
 
 Check out its implementation here:
-[C<sup>2</sup>RGAN](https://github.com/muhdbilal/llm-chatbot](https://github.com/muhdbilal/C2RGAN)
+[![C<sup>2</sup>RGAN](https://github.com/muhdbilal/C2RGAN)
 
 <img align="left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=muhdbilal&hide_border=true&layout=compact&theme=blueberry">
 
