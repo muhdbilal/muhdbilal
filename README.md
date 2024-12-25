@@ -11,16 +11,17 @@ I have been experiemnting with Large Language Models (LLMs) recently, and some o
 ### 🗺️ [Location Finder](https://github.com/muhdbilal/location_finder)
 Use LLMs to pinpoint any geographical query on a map
 
-### 🗨️ [RAG Chatbot](https://github.com/muhdbilal/llm-chatbot)
+#### 🗨️ [RAG Chatbot](https://github.com/muhdbilal/llm-chatbot)
 A chatbot with Retrieval Augmented Generation (RAG) to answer questions related to the provided pdf files.
 
-### 📫 Visit my socials:
+#### 📫 Visit my socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/mhdbilal) 
 
 ### 📃Read my journal paper:
 [![Journal Paper](https://img.shields.io/badge/Link_to_paper-MDPI-Green)](https://www.mdpi.com/1996-1073/16/4/1636)
+
 Check out its implementation here:
-[C<sup>2</sup>RGAN]([https://github.com/muhdbilal/llm-chatbot](https://github.com/muhdbilal/C2RGAN))
+[C<sup>2</sup>RGAN](https://github.com/muhdbilal/llm-chatbot](https://github.com/muhdbilal/C2RGAN)
 
 <img align="left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=muhdbilal&hide_border=true&layout=compact&theme=blueberry">
 
