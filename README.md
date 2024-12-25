@@ -6,12 +6,12 @@ I am a data scientist and machine learning researcher. I am all about harnessing
 - Programming Languages: Python, R, SQL
 - Tools: Git, Docker, VS Code, Jira, Confluence
 
-I have been experiemnting with Large Language Models (LLMs) recently, and some of the projects I made are:
+I have been experiemnting with Large Language Models (LLMs) recently. Some of the projects I made are:
 
-### 🗺️ [Location Finder](https://github.com/muhdbilal/location_finder)
+ - ### 🗺️ [Location Finder](https://github.com/muhdbilal/location_finder)
 Use LLMs to pinpoint any geographical query on a map.
 
-#### 🗨️ [RAG Chatbot](https://github.com/muhdbilal/llm-chatbot)
+- #### 🗨️ [RAG Chatbot](https://github.com/muhdbilal/llm-chatbot)
 A chatbot with Retrieval Augmented Generation (RAG) to answer questions related to the provided pdf files.
 
 #### 📫 Visit my socials:
